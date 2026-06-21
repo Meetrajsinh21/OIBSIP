@@ -1,0 +1,50 @@
+# To-Do App
+
+A simple and responsive To-Do List web application built using HTML, CSS, and JavaScript.
+
+## Features
+
+- Add new tasks
+- Edit existing tasks
+- Delete tasks
+- Mark tasks as completed
+- Separate Pending and Completed task lists
+- Displays task creation date and time
+- Displays task completion date and time
+- Responsive user interface
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+## Project Structure
+
+todo-app/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+## How to Run
+
+1. Download or clone the repository.
+2. Open the project folder.
+3. Double-click `index.html`.
+
+OR
+
+Use VS Code:
+1. Install Live Server extension.
+2. Right-click `index.html`.
+3. Select "Open with Live Server".
+
+## Future Enhancements
+
+- Local Storage support
+- Dark Mode
+- Task Categories
+- Task Priority Levels
+- Search and Filter Tasks
